@@ -6,8 +6,8 @@ const FS = require("../lib/fs.js");
 // Ideally, this should be zero.
 const DEFAULT_AMOUNT = 0;
 
-global.currencyName = 'Stardust';
-global.currencyPlural = 'Stardust';
+global.currencyName = 'Dark coin';
+global.currencyPlural = 'Dark coins';
 
 let Economy = global.Economy = {
 	/**
