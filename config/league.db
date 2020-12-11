@@ -1,0 +1,3 @@
+SQLite format 3@  .?�
+��r�?tablepointspointsCREATE TABLE points (date INTEGER, userid TEXT, league TEXT, points INTEGER, reason TEXT)
+
